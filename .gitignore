@@ -34,9 +34,7 @@ Release/**/*.swd
 
 **/flash_debug/
 =======
-**/Debug/
 **/flash_debug/
-**/Release/
 >>>>>>> b361cdd6668267b70dbeb585d2bdc8b2e6ad62b1
 **/flash_release/
 **/.metadata/
