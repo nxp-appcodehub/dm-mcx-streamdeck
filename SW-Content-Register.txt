@@ -1,0 +1,14 @@
+Release Name: 		   dm-mcx-streamdeck
+Release Version: 	   2.0
+Outgoing License: 	   LA_OPT_NXP_Software_License v56 April 2024 - Additional Distribution License granted, license in Section 2.3 applies
+License in File: 	   Licence.txt
+Description: 		   A touch user interface to send hotkeys or shorcuts
+Release location: 	   https://github.com/nxp-appcodehub/dm-mcx-streamdeck
+Origin: 			   NXP (BSD-3-clause)
+					   NXP (Proprietary)
+					   CMSIS (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/releases/tag/5.8.0      
+					   lvgl (MIT) - https://github.com/lvgl/lvgl
+					   FreeRTOS (MIT) - https://github.com/FreeRTOS
+					   lodepng (zlib) - https://github.com/lvandeve/lodepng
+					   Monserrat Font (OFT) - https://github.com/JulietaUla/Montserrat
+

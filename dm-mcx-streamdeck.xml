@@ -1,0 +1,30 @@
+<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" id="dm-mcx-streamdeck" type="demo" format="projectfile" versionSchema="1.0.0" name="MCX STREAMDECK">
+    <display_title>
+        MCX STREAMDECK
+    </display_title>
+    <overview>
+        <![CDATA[A touch user interface to send hotkeys or shorcuts]]>
+    </overview>
+    <toolchains>
+        <toolchain name="mcux"/>
+		<toolchain name="vscode"/>
+    </toolchains>
+    <families>
+        <family name="mcx"></family>
+    </families>
+    <nxp_compatible_hw>
+        <hw id="FRDM-MCXN947"></hw>
+    </nxp_compatible_hw>
+	<nxp_ebh_hw>
+		<ebh id="nxp_lcd_par_s035"/>
+		<ebh id="mikroe_tft_proto_5_capacitive"/>
+	</nxp_ebh_hw>	
+	<peripherals>
+        <peripheral name="usb"></peripheral>
+        <peripheral name="display"></peripheral>
+    </peripherals>
+    <categories>
+        <category name="graphics"></category>
+        <category name="hmi"></category>
+    </categories>
+</data:item>
