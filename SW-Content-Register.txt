@@ -12,3 +12,8 @@ Origin: 			   NXP (BSD-3-clause)
 					   lodepng (zlib) - https://github.com/lvandeve/lodepng
 					   Monserrat Font (OFT) - https://github.com/JulietaUla/Montserrat
 
+Package name: libLogos.a
+Release version: 1.0
+Outgoing License: LA_OPT_Online Code Hosting NXP_Software_License - v1.2 October 2023
+License File:     License.txt
+Origin: NXP (Proprietary)
